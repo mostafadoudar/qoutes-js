@@ -1,0 +1,19 @@
+header h1 
+{
+font-size: 80px;
+font-weight: bolder;
+margin: 40px;
+}
+header p 
+{
+font-size: 35px;
+}
+header button
+{
+        padding: 50px;
+        background-color: blue;
+}
+header button:hover 
+{
+background-color: green;
+}
